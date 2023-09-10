@@ -1,0 +1,5 @@
+{{#user}}
+Name: Sashank Dash
+Skills: Go,Node JS, Python, Microservice, MongoDB ,redis ,mysql, GCP ,AWS
+Email: mech.ssd@gmail.com
+{{/user}}
